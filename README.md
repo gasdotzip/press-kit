@@ -24,4 +24,8 @@ Please adhere to the following guidelines when using these assets:
 2. **Maintain the color scheme** to ensure brand consistency.
 3. **Use the provided font** (JetBrains Mono) for any text associated with the assets.
 
+## Contact
+
+For further inquiries or permissions, please contact [team@gas.zip](mailto:team@gas.zip).
+
 Thank you for respecting our brand guidelines.
