@@ -15,7 +15,8 @@ All assets are contained within this repository.
 
 - **Primary Blue Color**: #3a6ea5
 - **Font**: JetBrains Mono
-
+- **Logo Font**: JetBrains Mono, **Bold** with tight letter spacing
+  
 ## Usage Guidelines
 
 Please adhere to the following guidelines when using these assets:
